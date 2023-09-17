@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\Tələbə formu.exe.config
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\Tələbə formu.exe
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\Tələbə formu.pdb
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə_formu.Form1.resources
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə_formu.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.exe
+C:\Users\user\Documents\Visual Studio 2022\Tələbə formu\Tələbə formu\obj\Debug\Tələbə formu.pdb
